@@ -1,0 +1,4 @@
+Two-spiral dataset (Lang and Whitbrock)
+    - 194 data points
+    - distributed equally between two inter-locked spirals
+    - 
